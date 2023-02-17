@@ -1,0 +1,12 @@
+.babysitter {
+  width: 80%;
+  margin: 0 auto;
+}
+.babysitter__list {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.babysitter__list_card img {
+  border-radius: 14px;
+}/*# sourceMappingURL=style.css.map */

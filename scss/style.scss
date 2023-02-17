@@ -1,0 +1,17 @@
+.babysitter {
+    width: 80%;
+    margin: 0 auto;
+
+    &__list {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+
+        &_card {
+            img {
+                border-radius: 14px;
+            }
+        }
+    }
+
+}
